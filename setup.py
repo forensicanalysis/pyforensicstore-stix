@@ -27,7 +27,7 @@ setup(
     author_email="demian.kellermann@siemens.com",
     url="https://github.com/forensicanalysis/pyforensicstore_stix",
     description="STIX 2.1 JSON schemas as a python provider",
-    version="2.1.0",
+    version="2.1.1",
     py_modules=['forensicstore_stix_schemas'],
     entry_points={
         'forensicstore_schemas': [
